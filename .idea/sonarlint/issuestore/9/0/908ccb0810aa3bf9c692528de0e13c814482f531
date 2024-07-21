@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›Ã£–8ª‚¯«2J$0c42adfa-20ce-4179-b8b8-1366d6a388ff
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(íõêÓøÿÿÿÿ8ëÊ¯«2
+}
+java:S1854"5Remove this useless assignment to local variable "p".(óîµÃùÿÿÿÿ8³‚¯«2J$e72bf912-6493-4963-97dd-319cdbc8fd65
+L	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8óÊ¯«2
+G	java:S106"+Replace this use of System.out by a logger.(œ°Æî8óÊ¯«2
+n
+java:S1481"&Remove this unused "p" local variable.(óîµÃùÿÿÿÿ8·‚¯«2J$b29773c2-234d-4f58-a328-a97ee97f7f55
+{
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8¸‚¯«2J$7a7bf371-9f24-4f26-9991-bbe3d9803c25
+r
+java:S1128"/Remove this unused import 'java.util.Optional'.(Ü¦Ó˜8¸‚¯«2J$1d49bcba-95b6-482a-95d6-a032a815c1ce
